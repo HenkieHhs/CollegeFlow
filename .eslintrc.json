@@ -1,0 +1,1 @@
+{\n  \"root\": true,\n  \"extends\": [\n    \"plugin:react/recommended\",\n    \"plugin:next/recommended\"\n  ],\n  \"plugins\": [\n    \"react\",\n    \"jsx-a11y\",\n    \"import\"\n  ],\n  \"rules\": {\n    \"react/react-in-jsx-scope\": \"off\",\n    \"import/no-anonymous-default-export\": \"off\"\n  }\n}
